@@ -1,0 +1,7 @@
+Makefile.PL
+MANIFEST
+ppport.h
+README
+Stat.pm
+Stat.xs
+t/1.t
